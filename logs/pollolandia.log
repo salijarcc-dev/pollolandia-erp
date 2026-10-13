@@ -1,0 +1,3 @@
+2026-10-11 17:35:47,858 | INFO     | pollolandia | Logging iniciado (ERP Pollolandia v0.1.0)
+2026-10-11 17:35:47,961 | INFO     | pollolandia.migraciones | Migración 1 aplicada: Esquema inicial: catálogo, costos, parámetros, períodos, socios, seguridad, diario, auditoría y adjuntos
+2026-10-11 17:35:47,985 | INFO     | pollolandia.semillas | Semillas aplicadas: {'catalogo_cuentas': 190, 'sufijos_centros': 30, 'parametros': 138, 'calendario': 65, 'socios': 12, 'roles_permisos': 148, 'apertura': 12, 'conciliacion': 23}
